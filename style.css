@@ -1,0 +1,21 @@
+.services{
+    text-align: center;
+}
+
+.fa-solid{
+    color: rgb(233, 212, 212);
+    background-color: yellow;
+    width: 100px;
+    height: 50px;  
+}
+.service{
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+.para{
+    width: fit-content;
+}
+.clr{
+    clear: both;
+}
